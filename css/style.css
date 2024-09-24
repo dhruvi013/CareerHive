@@ -1498,10 +1498,10 @@ a:focus {
     color: #999999;
 }
 
-.footer .copyright .col-md-6:last-child p {
+/* .footer .copyright .col-md-6:last-child p {
     text-align: right;
 }
-
+ */
 .footer .copyright p a {
     color: #ffffff;
 }
